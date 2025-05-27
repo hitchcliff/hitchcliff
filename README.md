@@ -2,13 +2,13 @@
 <h3 align="center">Fullstack & Flutter Developer</h3>
 
 <div align="center">
-    <div>
+    <div align="left">
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitchcliff&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hitchcliff" />
     </div>
-    <div>
+    <div align="left">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=hitchcliff&show_icons=true&locale=en&theme=tokyonight" alt="hitchcliff" />
     </div>
-    <div>
+    <div align="left">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitchcliff&&theme=tokyonight" alt="hitchcliff" />
     </div>
 </div>
